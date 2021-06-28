@@ -2,6 +2,8 @@
 
 > Next 2 month `28 jun 2021 to 28 Aug 2021` i will be following this article guide section [Article link](https://www.smashingmagazine.com/guides/css-layout/)
 
+> next Article [link](https://www.smashingmagazine.com/2018/01/understanding-sizing-css-layout/)
+
 ## `28 Jun 2021`
 
 > #day1
