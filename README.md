@@ -2,11 +2,11 @@
 
 > Next 2 month `28 jun 2021 to 28 Aug 2021` i will be following this article guide section [Article link](https://www.smashingmagazine.com/2018/05/guide-css-layout/)
 
-> next Article [link](https://www.smashingmagazine.com/2018/05/guide-css-layout/)
+> next Tailwind video's [link](https://www.youtube.com/watch?v=elgqxmdVms8&list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0)
 
 ## `28 Jun 2021`
 
-> #day1¯
+> #day1
 
 ### `How to learn CSS` [Article link](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
 
