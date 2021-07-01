@@ -2,7 +2,7 @@
 
 > Next 2 month `28 jun 2021 to 28 Aug 2021` i will be following this article guide section [Article link](https://www.smashingmagazine.com/2018/05/guide-css-layout/)
 
-> next Tailwind video's [link](https://www.youtube.com/watch?v=elgqxmdVms8&list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0)
+> next Tailwind video's
 
 ## `28 Jun 2021`
 
@@ -39,3 +39,13 @@
   - if you give 3fr to a div that doesn't mean all the div will have equal length
 - minmax(auto,1fr)
   - for equal track use minmax function
+
+## `1 July 2021`
+
+> #day4
+
+Tailwind video's [link](https://www.youtube.com/watch?v=elgqxmdVms8&list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0)
+
+- how to effectively use tailwind
+- less css and less media queries to write
+- very customizable css
