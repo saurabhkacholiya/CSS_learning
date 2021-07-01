@@ -44,7 +44,7 @@
 
 > #day4
 
-Tailwind video's [link](https://www.youtube.com/watch?v=elgqxmdVms8&list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0)
+`Tailwind video's` [link](https://www.youtube.com/watch?v=elgqxmdVms8&list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0)
 
 - how to effectively use tailwind
 - less css and less media queries to write
