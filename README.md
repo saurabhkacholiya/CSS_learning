@@ -1,8 +1,12 @@
-# CSS_learning
+# `CSS_learning`
 
 > Next 2 month `28 jun 2021 to 28 Aug 2021` i will be following this article guide section [Article link](https://www.smashingmagazine.com/2018/05/guide-css-layout/)
 
-> next article will be [link](https://www.smashingmagazine.com/2018/05/guide-css-layout/)
+> next article will be [link](https://www.smashingmagazine.com/2018/05/guide-css-layout/https://jamesclear.com/articles)
+
+> At the same time i will try to read some article from jamesClear blog [Article Link](https://jamesclear.com/articles)
+
+> next article will be [link](https://jamesclear.com/articles)
 
 ## `28 Jun 2021`
 
@@ -49,3 +53,18 @@
 - how to effectively use tailwind
 - less css and less media queries to write
 - very customizable css
+
+## `2 July 2021 ` ## `3 July 2021`
+
+> Missed 2 day's
+
+## `4 July 2021`
+
+> #day5
+
+- Personal blog read
+
+  - How to be more confident [Link](https://jamesclear.com/kasparov-confidence)
+
+- CSS
+  - Started using Tailwind CSS
