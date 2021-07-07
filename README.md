@@ -54,7 +54,7 @@
 - less css and less media queries to write
 - very customizable css
 
-## `2 July 2021 ` ## `3 July 2021`
+## `2 July 2021` to `3 July 2021`
 
 > Missed 2 day's
 
@@ -68,3 +68,12 @@
 
 - CSS
   - Started using Tailwind CSS
+
+## `5 July 2021` to `6 July 2021`
+
+> Missed 2 day's
+
+## `7 July 2021` to `...`
+
+- Getting Started With CSS Layout [Link]('https://www.smashingmagazine.com/2018/05/guide-css-layout/')
+  - Positions
