@@ -75,5 +75,6 @@
 
 ## `7 July 2021` to `...`
 
+- `Reading css blog won't help me need to create projects`
 - Getting Started With CSS Layout [Link]('https://www.smashingmagazine.com/2018/05/guide-css-layout/')
   - Positions
