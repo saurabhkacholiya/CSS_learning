@@ -83,7 +83,7 @@
 
 ## `8 July 2021`
 
-> #day6
+> #day7
 
 - Learned about emmet and started using it
 - cheat sheet link [cheat_sheet_link](https://docs.emmet.io/cheat-sheet/)
