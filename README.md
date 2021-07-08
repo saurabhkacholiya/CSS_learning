@@ -80,3 +80,10 @@
 - `Reading css blog won't help me need to create projects`
 - Getting Started With CSS Layout [Link]('https://www.smashingmagazine.com/2018/05/guide-css-layout/')
   - Positions
+
+## `8 July 2021`
+
+> #day6
+
+- Learned about emmet and started using it
+- cheat sheet link [cheat_sheet_link](https://docs.emmet.io/cheat-sheet/)
