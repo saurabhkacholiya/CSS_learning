@@ -7,32 +7,32 @@
     <title>Mondrian painting</title>
   </head>
   <style>
+    * {
+      box-sizing: border-box;
+    }
     .grid {
       display: grid;
+      grid-template-columns: repeat(6, minmax(200px, 1fr));
+      grid-auto-rows: minmax(200px, 80px);
+      row-gap: 20px;
+      column-gap: 20px;
     }
-    .col {
+    .child {
       border: 1px solid #1a1a1a;
     }
   </style>
   <body>
     <div class="grid">
-      <div class="col"></div>
-      <div class="col"></div>
-      <div class="col"></div>
-
-      <div>
-        <section></section>
-        <div></div>
-        <div>
-          <div><span>what is structure</span></div>
-        </div>
-      </div>
-
-      <div>
-        <div>
-          <div></div>
-        </div>
-      </div>
+      <div class="child"></div>
+      <div class="child"></div>
+      <div class="child"></div>
+      <div class="child"></div>
+      <div class="child"></div>
+      <div class="child"></div>
+      <div class="child"></div>
+      <div class="child"></div>
+      <div class="child"></div>
+      <div class="child"></div>
     </div>
   </body>
 </html>

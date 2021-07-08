@@ -87,3 +87,6 @@
 
 - Learned about emmet and started using it
 - cheat sheet link [cheat_sheet_link](https://docs.emmet.io/cheat-sheet/)
+- `STARTED WITH GRID FOR MONDRIAN PAINTING`
+  - getting started with grid
+  - quick video on grid [link](https://gridbyexample.com/video/)
