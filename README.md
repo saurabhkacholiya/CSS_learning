@@ -90,3 +90,13 @@
 - `STARTED WITH GRID FOR MONDRIAN PAINTING`
   - getting started with grid
   - quick video on grid [link](https://gridbyexample.com/video/)
+
+## `9 July 2021`
+
+> #day8
+
+- quick video on grid [link](https://gridbyexample.com/video/)
+  - auto-fill and auto-fit
+  - grid-auto-flow
+  - grid-column-end: span 4;
+  - grid-row-end: span 3;
