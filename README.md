@@ -100,3 +100,6 @@
   - grid-auto-flow
   - grid-column-end: span 4;
   - grid-row-end: span 3;
+  - ## Best emmet learning`div$[class=child$]{$}*48`
+  - grid-column: {start/end} eg 1/-1 -> start of column from 1 and -1 means end of column
+  - grid-row: {start/end}
