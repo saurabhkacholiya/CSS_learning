@@ -2,11 +2,7 @@
 
 > Next 2 month `28 jun 2021 to 28 Aug 2021` i will be following this article guide section [Article link](https://www.smashingmagazine.com/2018/05/guide-css-layout/)
 
-> next article will be [link](https://www.smashingmagazine.com/2018/05/guide-css-layout/https://jamesclear.com/articles)
-
-> At the same time i will try to read some article from jamesClear blog [Article Link](https://jamesclear.com/articles)
-
-> next article will be [link](https://jamesclear.com/articles)
+> next article [Link](https://gridbyexample.com/video/series-named-lines/)
 
 ## `28 Jun 2021`
 
@@ -103,3 +99,12 @@
   - ## Best emmet learning`div$[class=child$]{$}*48`
   - grid-column: {start/end} eg 1/-1 -> start of column from 1 and -1 means end of column
   - grid-row: {start/end}
+
+## `10 July 2021`
+
+- Aligning and justifying grid items
+- Named Lines (need to work on it)
+- grid-template-area:
+  "hd hd"
+  "main main"
+  "footer footer"
